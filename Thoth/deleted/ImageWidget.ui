@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>ImageWidget</class>
+ <widget class="QWidget" name="ImageWidget">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>1221</width>
+    <height>765</height>
+   </rect>
+  </property>
+  <property name="focusPolicy">
+   <enum>Qt::StrongFocus</enum>
+  </property>
+  <property name="windowTitle">
+   <string>ImageWidget</string>
+  </property>
+  <layout class="QGridLayout" name="gridLayout">
+   <property name="leftMargin">
+    <number>0</number>
+   </property>
+   <property name="topMargin">
+    <number>0</number>
+   </property>
+   <property name="rightMargin">
+    <number>0</number>
+   </property>
+   <property name="bottomMargin">
+    <number>0</number>
+   </property>
+   <property name="spacing">
+    <number>0</number>
+   </property>
+   <item row="0" column="0">
+    <widget class="QFrame" name="titleFrame">
+     <property name="frameShape">
+      <enum>QFrame::StyledPanel</enum>
+     </property>
+     <property name="frameShadow">
+      <enum>QFrame::Sunken</enum>
+     </property>
+     <layout class="QHBoxLayout" name="horizontalLayout_2">
+      <property name="leftMargin">
+       <number>2</number>
+      </property>
+      <property name="topMargin">
+       <number>2</number>
+      </property>
+      <property name="rightMargin">
+       <number>2</number>
+      </property>
+      <property name="bottomMargin">
+       <number>2</number>
+      </property>
+      <item>
+       <widget class="QToolButton" name="select">
+        <property name="text">
+         <string>Select</string>
+        </property>
+        <property name="icon">
+         <iconset resource="Thot.qrc">
+          <normaloff>:/Thot/Resources/icons/ic_near_me_black_36dp.png</normaloff>:/Thot/Resources/icons/ic_near_me_black_36dp.png</iconset>
+        </property>
+        <property name="checkable">
+         <bool>true</bool>
+        </property>
+        <property name="checked">
+         <bool>true</bool>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QToolButton" name="rect">
+        <property name="text">
+         <string>Rectangle</string>
+        </property>
+        <property name="icon">
+         <iconset resource="Thot.qrc">
+          <normaloff>:/Thot/Resources/icons/ic_crop_3_2_black_36dp.png</normaloff>:/Thot/Resources/icons/ic_crop_3_2_black_36dp.png</iconset>
+        </property>
+        <property name="checkable">
+         <bool>true</bool>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QToolButton" name="poly">
+        <property name="text">
+         <string>Polygon</string>
+        </property>
+        <property name="icon">
+         <iconset resource="Thot.qrc">
+          <normaloff>:/Thot/Resources/icons/ic_panorama_vertical_black_36dp.png</normaloff>:/Thot/Resources/icons/ic_panorama_vertical_black_36dp.png</iconset>
+        </property>
+        <property name="checkable">
+         <bool>true</bool>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="Line" name="line">
+        <property name="orientation">
+         <enum>Qt::Vertical</enum>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QToolButton" name="merge">
+        <property name="text">
+         <string>Merge</string>
+        </property>
+        <property name="icon">
+         <iconset resource="Thot.qrc">
+          <normaloff>:/Thot/Resources/icons/ic_filter_none_black_36dp.png</normaloff>:/Thot/Resources/icons/ic_filter_none_black_36dp.png</iconset>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QToolButton" name="buffer">
+        <property name="statusTip">
+         <string>Buffering</string>
+        </property>
+        <property name="whatsThis">
+         <string>Expand selecte item</string>
+        </property>
+        <property name="text">
+         <string>Buffer</string>
+        </property>
+        <property name="icon">
+         <iconset resource="Thot.qrc">
+          <normaloff>:/Thot/Resources/icons/ic_hdr_weak_black_36dp.png</normaloff>:/Thot/Resources/icons/ic_hdr_weak_black_36dp.png</iconset>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QToolButton" name="sync">
+        <property name="statusTip">
+         <string>Sync.</string>
+        </property>
+        <property name="whatsThis">
+         <string>Sync.</string>
+        </property>
+        <property name="text">
+         <string>Sync.</string>
+        </property>
+        <property name="icon">
+         <iconset resource="Thot.qrc">
+          <normaloff>:/Thot/Resources/icons/ic_compare_arrows_black_36dp.png</normaloff>:/Thot/Resources/icons/ic_compare_arrows_black_36dp.png</iconset>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QToolButton" name="osm">
+        <property name="statusTip">
+         <string>OSM filter</string>
+        </property>
+        <property name="whatsThis">
+         <string>Show OSM Filter </string>
+        </property>
+        <property name="text">
+         <string>OSM Filter</string>
+        </property>
+        <property name="icon">
+         <iconset resource="Thot.qrc">
+          <normaloff>:/Thot/Resources/icons/ic_map_black_36dp.png</normaloff>:/Thot/Resources/icons/ic_map_black_36dp.png</iconset>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="Line" name="line_2">
+        <property name="orientation">
+         <enum>Qt::Vertical</enum>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QToolButton" name="undo">
+        <property name="statusTip">
+         <string>Undo</string>
+        </property>
+        <property name="whatsThis">
+         <string>Undo</string>
+        </property>
+        <property name="text">
+         <string>Undo</string>
+        </property>
+        <property name="icon">
+         <iconset resource="Thot.qrc">
+          <normaloff>:/Thot/Resources/icons/ic_undo_black_36dp.png</normaloff>:/Thot/Resources/icons/ic_undo_black_36dp.png</iconset>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <spacer name="horizontalSpacer">
+        <property name="orientation">
+         <enum>Qt::Horizontal</enum>
+        </property>
+        <property name="sizeHint" stdset="0">
+         <size>
+          <width>40</width>
+          <height>20</height>
+         </size>
+        </property>
+       </spacer>
+      </item>
+      <item>
+       <widget class="QLabel" name="currentPos">
+        <property name="text">
+         <string>X:0, Y:0</string>
+        </property>
+       </widget>
+      </item>
+     </layout>
+    </widget>
+   </item>
+   <item row="1" column="0">
+    <widget class="MapWidget" name="image" native="true">
+     <property name="sizePolicy">
+      <sizepolicy hsizetype="Preferred" vsizetype="MinimumExpanding">
+       <horstretch>0</horstretch>
+       <verstretch>0</verstretch>
+      </sizepolicy>
+     </property>
+     <property name="mouseTracking">
+      <bool>false</bool>
+     </property>
+    </widget>
+   </item>
+  </layout>
+ </widget>
+ <layoutdefault spacing="6" margin="11"/>
+ <customwidgets>
+  <customwidget>
+   <class>MapWidget</class>
+   <extends>QWidget</extends>
+   <header>MapWidget.h</header>
+   <container>1</container>
+  </customwidget>
+ </customwidgets>
+ <resources>
+  <include location="Thot.qrc"/>
+ </resources>
+ <connections/>
+</ui>

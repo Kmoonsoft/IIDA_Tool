@@ -1,0 +1,197 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>qrc;rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Form Files">
+      <UniqueIdentifier>{99349809-55BA-4b9d-BF79-8FDBB0286EB3}</UniqueIdentifier>
+      <Extensions>ui</Extensions>
+    </Filter>
+    <Filter Include="Translation Files">
+      <UniqueIdentifier>{639EADAA-A684-42e4-A9AD-28FC9BCB8F7C}</UniqueIdentifier>
+      <Extensions>ts</Extensions>
+    </Filter>
+    <Filter Include="Control">
+      <UniqueIdentifier>{acb21099-58cf-4d11-a64a-339986aa4b81}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GUI">
+      <UniqueIdentifier>{62304146-f8db-462e-b9fa-1b7a65607c3a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Entities">
+      <UniqueIdentifier>{f290372f-180c-4896-a048-4a3c1aa41868}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <QtRcc Include="Thoth.qrc">
+      <Filter>Resource Files</Filter>
+    </QtRcc>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="UnitTest.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>Control</Filter>
+    </ClCompile>
+    <ClCompile Include="Settings.cpp">
+      <Filter>Control</Filter>
+    </ClCompile>
+    <ClCompile Include="SceneListWidget.cpp">
+      <Filter>GUI</Filter>
+    </ClCompile>
+    <ClCompile Include="SceneListModel.cpp">
+      <Filter>GUI</Filter>
+    </ClCompile>
+    <ClCompile Include="NotificationWidget.cpp">
+      <Filter>GUI</Filter>
+    </ClCompile>
+    <ClCompile Include="MainWidget.cpp">
+      <Filter>GUI</Filter>
+    </ClCompile>
+    <ClCompile Include="LabelListWidget.cpp">
+      <Filter>GUI</Filter>
+    </ClCompile>
+    <ClCompile Include="LabelListModel.cpp">
+      <Filter>GUI</Filter>
+    </ClCompile>
+    <ClCompile Include="CocoJsonObject.cpp">
+      <Filter>Entities</Filter>
+    </ClCompile>
+    <ClCompile Include="GraphicsWidget.cpp">
+      <Filter>GUI</Filter>
+    </ClCompile>
+    <ClCompile Include="LabelObject.cpp">
+      <Filter>Entities</Filter>
+    </ClCompile>
+    <ClCompile Include="LabelController.cpp">
+      <Filter>Control</Filter>
+    </ClCompile>
+    <ClCompile Include="SettingsWidget.cpp">
+      <Filter>GUI</Filter>
+    </ClCompile>
+    <ClCompile Include="CategoryObject.cpp">
+      <Filter>Entities</Filter>
+    </ClCompile>
+    <ClCompile Include="ImageObject.cpp">
+      <Filter>Entities</Filter>
+    </ClCompile>
+    <ClCompile Include="UiControl.cpp">
+      <Filter>GUI</Filter>
+    </ClCompile>
+    <ClCompile Include="CategoryWidget.cpp">
+      <Filter>GUI</Filter>
+    </ClCompile>
+    <ClCompile Include="CategoryTreeModel.cpp">
+      <Filter>GUI</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <QtMoc Include="UnitTest.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="Settings.h">
+      <Filter>Control</Filter>
+    </QtMoc>
+    <QtMoc Include="NotificationWidget.h">
+      <Filter>GUI</Filter>
+    </QtMoc>
+    <QtMoc Include="LabelListWidget.h">
+      <Filter>GUI</Filter>
+    </QtMoc>
+    <QtMoc Include="LabelListModel.h">
+      <Filter>GUI</Filter>
+    </QtMoc>
+    <QtMoc Include="MainWidget.h">
+      <Filter>GUI</Filter>
+    </QtMoc>
+    <QtMoc Include="SceneListModel.h">
+      <Filter>GUI</Filter>
+    </QtMoc>
+    <QtMoc Include="SceneListWidget.h">
+      <Filter>GUI</Filter>
+    </QtMoc>
+    <QtMoc Include="GraphicsWidget.h">
+      <Filter>GUI</Filter>
+    </QtMoc>
+    <QtMoc Include="LabelObject.h">
+      <Filter>Entities</Filter>
+    </QtMoc>
+    <QtMoc Include="LabelController.h">
+      <Filter>Control</Filter>
+    </QtMoc>
+    <QtMoc Include="SettingsWidget.h">
+      <Filter>GUI</Filter>
+    </QtMoc>
+    <QtMoc Include="CategoryObject.h">
+      <Filter>Entities</Filter>
+    </QtMoc>
+    <QtMoc Include="ImageObject.h">
+      <Filter>Entities</Filter>
+    </QtMoc>
+    <QtMoc Include="CategoryWidget.h">
+      <Filter>GUI</Filter>
+    </QtMoc>
+    <QtMoc Include="CategoryTreeModel.h">
+      <Filter>GUI</Filter>
+    </QtMoc>
+  </ItemGroup>
+  <ItemGroup>
+    <QtUic Include="SceneListWidget.ui">
+      <Filter>GUI</Filter>
+    </QtUic>
+    <QtUic Include="MainWidget.ui">
+      <Filter>GUI</Filter>
+    </QtUic>
+    <QtUic Include="LabelListWidget.ui">
+      <Filter>GUI</Filter>
+    </QtUic>
+    <QtUic Include="SettingsWidget.ui">
+      <Filter>GUI</Filter>
+    </QtUic>
+    <QtUic Include="CategoryWidget.ui">
+      <Filter>GUI</Filter>
+    </QtUic>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="CocoJsonObject.h">
+      <Filter>Entities</Filter>
+    </ClInclude>
+    <ClInclude Include="Defines.h">
+      <Filter>Entities</Filter>
+    </ClInclude>
+    <ClInclude Include="resource.h">
+      <Filter>Resource Files</Filter>
+    </ClInclude>
+    <ClInclude Include="UiControl.h">
+      <Filter>GUI</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="Resource.rc">
+      <Filter>Resource Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="icon1.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="..\x64\Debug\Coco.json">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="..\x64\Debug\style\Main.qss">
+      <Filter>Resource Files</Filter>
+    </None>
+  </ItemGroup>
+</Project>

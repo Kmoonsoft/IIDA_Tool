@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1525
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Gaia", "Gaia\Gaia.vcxproj", "{7C2A4C77-122E-4E85-AE2C-8EBDB575EE77}"
+	ProjectSection(ProjectDependencies) = postProject
+		{5460E7E9-9089-4EF5-A51E-88164800FBA5} = {5460E7E9-9089-4EF5-A51E-88164800FBA5}
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Insight", "Insight\Insight.vcxproj", "{5460E7E9-9089-4EF5-A51E-88164800FBA5}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Thoth", "Thoth\Thoth.vcxproj", "{3D8B32A6-AFBD-4685-8B76-8EF430A6EEE5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7C2A4C77-122E-4E85-AE2C-8EBDB575EE77}.Debug|x64.ActiveCfg = Debug|x64
+		{7C2A4C77-122E-4E85-AE2C-8EBDB575EE77}.Debug|x64.Build.0 = Debug|x64
+		{7C2A4C77-122E-4E85-AE2C-8EBDB575EE77}.Release|x64.ActiveCfg = Release|x64
+		{7C2A4C77-122E-4E85-AE2C-8EBDB575EE77}.Release|x64.Build.0 = Release|x64
+		{5460E7E9-9089-4EF5-A51E-88164800FBA5}.Debug|x64.ActiveCfg = Debug|x64
+		{5460E7E9-9089-4EF5-A51E-88164800FBA5}.Debug|x64.Build.0 = Debug|x64
+		{5460E7E9-9089-4EF5-A51E-88164800FBA5}.Release|x64.ActiveCfg = Release|x64
+		{5460E7E9-9089-4EF5-A51E-88164800FBA5}.Release|x64.Build.0 = Release|x64
+		{3D8B32A6-AFBD-4685-8B76-8EF430A6EEE5}.Debug|x64.ActiveCfg = Debug|x64
+		{3D8B32A6-AFBD-4685-8B76-8EF430A6EEE5}.Debug|x64.Build.0 = Debug|x64
+		{3D8B32A6-AFBD-4685-8B76-8EF430A6EEE5}.Release|x64.ActiveCfg = Release|x64
+		{3D8B32A6-AFBD-4685-8B76-8EF430A6EEE5}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DF31DA61-7654-4444-907C-386E20C7BEBF}
+	EndGlobalSection
+EndGlobal
