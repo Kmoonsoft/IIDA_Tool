@@ -1,0 +1,1522 @@
+{
+	"classes" : [
+		{
+			"classId": 11,
+			"name": "Fixed-wing aircraft",
+			"desc": "xView",
+			"isHidden": 0
+		},
+		{
+			"classId": 12,
+			"name": "Small aircraft",
+			"desc": "xView",
+			"isHidden": 0
+		},
+		{
+			"classId": 13,
+			"name": "Passenger/Cargo Plane",
+			"desc": "xView",
+			"isHidden": 0
+		},
+		{
+			"classId": 15,
+			"name": "Helicopter",
+			"desc": "xView",
+			"isHidden": 0
+		},
+		{
+			"classId": 17,
+			"name": "Passenger Vehicle",
+			"desc": "xView",
+			"isHidden": 0
+		},
+		{
+			"classId": 18,
+			"name": "Small car",
+			"desc": "xView",
+			"isHidden": 0
+		},
+		{
+			"classId": 19,
+			"name": "Bus",
+			"desc": "xView",
+			"isHidden": 0
+		},
+		{
+			"classId": 20,
+			"name": "Pickup Truck",
+			"desc": "xView",
+			"isHidden": 0
+		},
+		{
+			"classId": 21,
+			"name": "Utility Truck",
+			"desc": "xView",
+			"isHidden": 0
+		},
+		{
+			"classId": 23,
+			"name": "Truck",
+			"desc": "xView",
+			"isHidden": 0
+		},
+		{
+			"classId": 24,
+			"name": "Cargo Truck",
+			"desc": "xView",
+			"isHidden": 0
+		},
+		{
+			"classId": 25,
+			"name": "Truck Tractor w/ Box Trailer",
+			"desc": "xView",
+			"isHidden": 0
+		},
+		{
+			"classId": 26,
+			"name": "Truck Tractor",
+			"desc": "xView",
+			"isHidden": 0
+		},
+		{
+			"classId": 27,
+			"name": "Trailer",
+			"desc": "xView",
+			"isHidden": 0
+		},
+		{
+			"classId": 28,
+			"name": "Truck Tractor w/ Flatbed Trailer",
+			"desc": "xView",
+			"isHidden": 0
+		},
+		{
+			"classId": 29,
+			"name": "Truck Tractor w/ Liquid Tank",
+			"desc": "xView",
+			"isHidden": 0
+		},
+		{
+			"classId": 32,
+			"name": "Crane Truck",
+			"desc": "xView",
+			"isHidden": 0
+		},
+		{
+			"classId": 33,
+			"name": "Railway Vehicle",
+			"desc": "xView",
+			"isHidden": 0
+		},
+		{
+			"classId": 34,
+			"name": "Passenger Car",
+			"desc": "xView",
+			"isHidden": 0
+		},
+		{
+			"classId": 35,
+			"name": "Cargo/Container Car",
+			"desc": "xView",
+			"isHidden": 0
+		},
+		{
+			"classId": 36,
+			"name": "Flat Car",
+			"desc": "xView",
+			"isHidden": 0
+		},
+		{
+			"classId": 37,
+			"name": "Tank Car",
+			"desc": "xView",
+			"isHidden": 0
+		},
+		{
+			"classId": 38,
+			"name": "Locomotive",
+			"desc": "xView",
+			"isHidden": 0
+		},
+		{
+			"classId": 40,
+			"name": "Maritime Vessel",
+			"desc": "xView",
+			"isHidden": 0
+		},
+		{
+			"classId": 41,
+			"name": "Motorboat",
+			"desc": "xView",
+			"isHidden": 0
+		},
+		{
+			"classId": 42,
+			"name": "Sailboat",
+			"desc": "xView",
+			"isHidden": 0
+		},
+		{
+			"classId": 44,
+			"name": "Tugboat",
+			"desc": "xView",
+			"isHidden": 0
+		},
+		{
+			"classId": 45,
+			"name": "Barge",
+			"desc": "xView",
+			"isHidden": 0
+		},
+		{
+			"classId": 47,
+			"name": "Fishing Vessel",
+			"desc": "xView",
+			"isHidden": 0
+		},
+		{
+			"classId": 49,
+			"name": "Ferry",
+			"desc": "xView",
+			"isHidden": 0
+		},
+		{
+			"classId": 50,
+			"name": "Yacht",
+			"desc": "xView",
+			"isHidden": 0
+		},
+		{
+			"classId": 51,
+			"name": "Container Ship",
+			"desc": "xView",
+			"isHidden": 0
+		},
+		{
+			"classId": 52,
+			"name": "Oil Tanker",
+			"desc": "xView",
+			"isHidden": 0
+		},
+		{
+			"classId": 53,
+			"name": "Engineering Vehicle",
+			"desc": "xView",
+			"isHidden": 0
+		},
+		{
+			"classId": 54,
+			"name": "Tower Crane",
+			"desc": "xView",
+			"isHidden": 0
+		},
+		{
+			"classId": 55,
+			"name": "Container Crane",
+			"desc": "xView",
+			"isHidden": 0
+		},
+		{
+			"classId": 56,
+			"name": "Reach Stacker",
+			"desc": "xView",
+			"isHidden": 0
+		},
+		{
+			"classId": 57,
+			"name": "Straddle Carrier",
+			"desc": "xView",
+			"isHidden": 0
+		},
+		{
+			"classId": 59,
+			"name": "Mobile Crane",
+			"desc": "xView",
+			"isHidden": 0
+		},
+		{
+			"classId": 60,
+			"name": "Dump Truck",
+			"desc": "xView",
+			"isHidden": 0
+		},
+		{
+			"classId": 61,
+			"name": "Haul Truck",
+			"desc": "xView",
+			"isHidden": 0
+		},
+		{
+			"classId": 62,
+			"name": "Tractor",
+			"desc": "xView",
+			"isHidden": 0
+		},
+		{
+			"classId": 63,
+			"name": "Front Loader/Bulldozer",
+			"desc": "xView",
+			"isHidden": 0
+		},
+		{
+			"classId": 64,
+			"name": "Excavator",
+			"desc": "xView",
+			"isHidden": 0
+		},
+		{
+			"classId": 65,
+			"name": "Cement Mixer",
+			"desc": "xView",
+			"isHidden": 0
+		},
+		{
+			"classId": 66,
+			"name": "Ground Grader",
+			"desc": "xView",
+			"isHidden": 0
+		},
+		{
+			"classId": 71,
+			"name": "Hut/Tent",
+			"desc": "xView",
+			"isHidden": 0
+		},
+		{
+			"classId": 72,
+			"name": "Shed",
+			"desc": "xView",
+			"isHidden": 0
+		},
+		{
+			"classId": 73,
+			"name": "Building",
+			"desc": "xView",
+			"isHidden": 0
+		},
+		{
+			"classId": 74,
+			"name": "Aircraft Hangar",
+			"desc": "xView",
+			"isHidden": 0
+		},
+		{
+			"classId": 76,
+			"name": "Damaged/Demolished Building",
+			"desc": "xView",
+			"isHidden": 0
+		},
+		{
+			"classId": 77,
+			"name": "Facility",
+			"desc": "xView",
+			"isHidden": 0
+		},
+		{
+			"classId": 79,
+			"name": "Construction Site",
+			"desc": "xView",
+			"isHidden": 0
+		},
+		{
+			"classId": 83,
+			"name": "Vehicle Lot",
+			"desc": "xView",
+			"isHidden": 0
+		},
+		{
+			"classId": 84,
+			"name": "Helipad",
+			"desc": "xView",
+			"isHidden": 0
+		},
+		{
+			"classId": 86,
+			"name": "Storage Tank",
+			"desc": "xView",
+			"isHidden": 0
+		},
+		{
+			"classId": 89,
+			"name": "Shipping Container Lot",
+			"desc": "xView",
+			"isHidden": 0
+		},
+		{
+			"classId": 91,
+			"name": "Shipping Container",
+			"desc": "xView",
+			"isHidden": 0
+		},
+		{
+			"classId": 93,
+			"name": "Pylon",
+			"desc": "xView",
+			"isHidden": 0
+		},
+		{
+			"classId": 94,
+			"name": "Tower",
+			"desc": "xView",
+			"isHidden": 0
+		},
+		{
+			"classId": 130,
+			"name": "large-vehicle",
+			"desc": "DOTA",
+			"isHidden": 0
+		},
+		{
+			"classId": 131,
+			"name": "swimming-pool",
+			"desc": "DOTA",
+			"isHidden": 0
+		},
+		{
+			"classId": 132,
+			"name": "helicopter",
+			"desc": "DOTA",
+			"isHidden": 0
+		},
+		{
+			"classId": 133,
+			"name": "bridge",
+			"desc": "DOTA",
+			"isHidden": 0
+		},
+		{
+			"classId": 134,
+			"name": "plane",
+			"desc": "DOTA",
+			"isHidden": 0
+		},
+		{
+			"classId": 135,
+			"name": "ship",
+			"desc": "DOTA",
+			"isHidden": 0
+		},
+		{
+			"classId": 136,
+			"name": "soccer-ball-field",
+			"desc": "DOTA",
+			"isHidden": 0
+		},
+		{
+			"classId": 137,
+			"name": "basketball-court",
+			"desc": "DOTA",
+			"isHidden": 0
+		},
+		{
+			"classId": 138,
+			"name": "ground-track-field",
+			"desc": "DOTA",
+			"isHidden": 0
+		},
+		{
+			"classId": 139,
+			"name": "small-vehicle",
+			"desc": "DOTA",
+			"isHidden": 0
+		},
+		{
+			"classId": 140,
+			"name": "harbor",
+			"desc": "DOTA",
+			"isHidden": 0
+		},
+		{
+			"classId": 141,
+			"name": "baseball-diamond",
+			"desc": "DOTA",
+			"isHidden": 0
+		},
+		{
+			"classId": 142,
+			"name": "tennis-court",
+			"desc": "DOTA",
+			"isHidden": 0
+		},
+		{
+			"classId": 143,
+			"name": "roundabout",
+			"desc": "DOTA",
+			"isHidden": 0
+		},
+		{
+			"classId": 144,
+			"name": "storage-tank",
+			"desc": "DOTA",
+			"isHidden": 0
+		},
+		{
+			"classId": 145,
+			"name": "container-crane",
+			"desc": "DOTA",
+			"isHidden": 0
+		},
+		{
+			"classId": 150,
+			"name": "Airbus_ship",
+			"desc": "Airbus ship detection challenge",
+			"isHidden": 0
+		},
+		{
+			"classId": 199,
+			"name": "Unknown object",
+			"desc": "What is this?!",
+			"isHidden": 0
+		},
+		{
+			"classId": 201,
+			"name": "(OBSOLETE) SIA_smallShip",
+			"desc": "",
+			"isHidden": 0
+		},
+		{
+			"classId": 202,
+			"name": "(OBSOLETE) SIA_largeShip",
+			"desc": "",
+			"isHidden": 0
+		},
+		{
+			"classId": 203,
+			"name": "SIA_fixedCrane",
+			"desc": "",
+			"isHidden": 0
+		},
+		{
+			"classId": 204,
+			"name": "SIA_movingCrane",
+			"desc": "",
+			"isHidden": 0
+		},
+		{
+			"classId": 205,
+			"name": "SIA_container",
+			"desc": "",
+			"isHidden": 0
+		},
+		{
+			"classId": 206,
+			"name": "SIA_largeBuilding",
+			"desc": "",
+			"isHidden": 0
+		},
+		{
+			"classId": 207,
+			"name": "SIA_civilAircraft",
+			"desc": "",
+			"isHidden": 0
+		},
+		{
+			"classId": 208,
+			"name": "SIA_militaryAircraft",
+			"desc": "",
+			"isHidden": 0
+		},
+		{
+			"classId": 209,
+			"name": "SIA_helicopter",
+			"desc": "",
+			"isHidden": 0
+		},
+		{
+			"classId": 210,
+			"name": "SIA_smallCar",
+			"desc": "",
+			"isHidden": 0
+		},
+		{
+			"classId": 211,
+			"name": "SIA_bus",
+			"desc": "",
+			"isHidden": 0
+		},
+		{
+			"classId": 212,
+			"name": "SIA_truck",
+			"desc": "",
+			"isHidden": 0
+		},
+		{
+			"classId": 213,
+			"name": "SIA_vehicle",
+			"desc": "",
+			"isHidden": 0
+		},
+		{
+			"classId": 214,
+			"name": "SIA_passengerTrain",
+			"desc": "",
+			"isHidden": 0
+		},
+		{
+			"classId": 215,
+			"name": "SIA_freightTrain",
+			"desc": "",
+			"isHidden": 0
+		},
+		{
+			"classId": 216,
+			"name": "SIA_sportComplex",
+			"desc": "",
+			"isHidden": 0
+		},
+		{
+			"classId": 217,
+			"name": "SIA_oilTank",
+			"desc": "",
+			"isHidden": 0
+		},
+		{
+			"classId": 218,
+			"name": "SIA_parkingLot",
+			"desc": "",
+			"isHidden": 0
+		},
+		{
+			"classId": 219,
+			"name": "SIA_helipad",
+			"desc": "",
+			"isHidden": 0
+		},
+		{
+			"classId": 220,
+			"name": "SIA_roundabout",
+			"desc": "",
+			"isHidden": 0
+		},
+		{
+			"classId": 221,
+			"name": "SIA_bridge",
+			"desc": "",
+			"isHidden": 0
+		},
+		{
+			"classId": 222,
+			"name": "SIA_ship",
+			"desc": "",
+			"isHidden": 0
+		},
+		{
+			"classId": 300,
+			"name": "Unknown",
+			"desc": "AIS ShipTypes",
+			"isHidden": 0
+		},
+		{
+			"classId": 320,
+			"name": "WIG, all",
+			"desc": "AIS ShipTypes",
+			"isHidden": 0
+		},
+		{
+			"classId": 321,
+			"name": "WIG, Hazardous category A",
+			"desc": "AIS ShipTypes",
+			"isHidden": 0
+		},
+		{
+			"classId": 322,
+			"name": "WIG, Hazardous category B",
+			"desc": "AIS ShipTypes",
+			"isHidden": 0
+		},
+		{
+			"classId": 323,
+			"name": "WIG, Hazardous category C",
+			"desc": "AIS ShipTypes",
+			"isHidden": 0
+		},
+		{
+			"classId": 324,
+			"name": "WIG, Hazardous category D",
+			"desc": "AIS ShipTypes",
+			"isHidden": 0
+		},
+		{
+			"classId": 329,
+			"name": "WIG, no additional information",
+			"desc": "AIS ShipTypes",
+			"isHidden": 0
+		},
+		{
+			"classId": 330,
+			"name": "Fishing",
+			"desc": "AIS ShipTypes",
+			"isHidden": 0
+		},
+		{
+			"classId": 331,
+			"name": "Towing",
+			"desc": "AIS ShipTypes",
+			"isHidden": 0
+		},
+		{
+			"classId": 332,
+			"name": "Towing,length>200m,breadth>25m",
+			"desc": "AIS ShipTypes",
+			"isHidden": 0
+		},
+		{
+			"classId": 333,
+			"name": "Dreding or underwater ops",
+			"desc": "AIS ShipTypes",
+			"isHidden": 0
+		},
+		{
+			"classId": 334,
+			"name": "Diving ops",
+			"desc": "AIS ShipTypes",
+			"isHidden": 0
+		},
+		{
+			"classId": 335,
+			"name": "Militarry ops",
+			"desc": "AIS ShipTypes",
+			"isHidden": 0
+		},
+		{
+			"classId": 336,
+			"name": "Sailing",
+			"desc": "AIS ShipTypes",
+			"isHidden": 0
+		},
+		{
+			"classId": 337,
+			"name": "Pleasure Craft",
+			"desc": "AIS ShipTypes",
+			"isHidden": 0
+		},
+		{
+			"classId": 340,
+			"name": "HSC, all",
+			"desc": "AIS ShipTypes",
+			"isHidden": 0
+		},
+		{
+			"classId": 341,
+			"name": "HSC, Hazardous category A",
+			"desc": "AIS ShipTypes",
+			"isHidden": 0
+		},
+		{
+			"classId": 342,
+			"name": "HSC, Hazardous category B",
+			"desc": "AIS ShipTypes",
+			"isHidden": 0
+		},
+		{
+			"classId": 343,
+			"name": "HSC, Hazardous category C",
+			"desc": "AIS ShipTypes",
+			"isHidden": 0
+		},
+		{
+			"classId": 344,
+			"name": "HSC, Hazardous category D",
+			"desc": "AIS ShipTypes",
+			"isHidden": 0
+		},
+		{
+			"classId": 349,
+			"name": "HSC, no additional information",
+			"desc": "AIS ShipTypes",
+			"isHidden": 0
+		},
+		{
+			"classId": 350,
+			"name": "Pilot Vessel",
+			"desc": "AIS ShipTypes",
+			"isHidden": 0
+		},
+		{
+			"classId": 351,
+			"name": "Search and Rescue vessel",
+			"desc": "AIS ShipTypes",
+			"isHidden": 0
+		},
+		{
+			"classId": 352,
+			"name": "Tug",
+			"desc": "AIS ShipTypes",
+			"isHidden": 0
+		},
+		{
+			"classId": 353,
+			"name": "Port Tender",
+			"desc": "AIS ShipTypes",
+			"isHidden": 0
+		},
+		{
+			"classId": 354,
+			"name": "Anti-pollution equipment",
+			"desc": "AIS ShipTypes",
+			"isHidden": 0
+		},
+		{
+			"classId": 355,
+			"name": "Law Enforcement",
+			"desc": "AIS ShipTypes",
+			"isHidden": 0
+		},
+		{
+			"classId": 356,
+			"name": "Spare - Local Vessel",
+			"desc": "AIS ShipTypes",
+			"isHidden": 0
+		},
+		{
+			"classId": 357,
+			"name": "Spare - Local Vessel",
+			"desc": "AIS ShipTypes",
+			"isHidden": 0
+		},
+		{
+			"classId": 358,
+			"name": "Medical Transport",
+			"desc": "AIS ShipTypes",
+			"isHidden": 0
+		},
+		{
+			"classId": 359,
+			"name": "Ships according to Resolution 18(Mob-83)",
+			"desc": "AIS ShipTypes",
+			"isHidden": 0
+		},
+		{
+			"classId": 360,
+			"name": "Passenger ships, all",
+			"desc": "AIS ShipTypes",
+			"isHidden": 0
+		},
+		{
+			"classId": 361,
+			"name": "Passenger ships, Hazardous category A",
+			"desc": "AIS ShipTypes",
+			"isHidden": 0
+		},
+		{
+			"classId": 362,
+			"name": "Passenger ships, Hazardous category B",
+			"desc": "AIS ShipTypes",
+			"isHidden": 0
+		},
+		{
+			"classId": 363,
+			"name": "Passenger ships, Hazardous category C",
+			"desc": "AIS ShipTypes",
+			"isHidden": 0
+		},
+		{
+			"classId": 364,
+			"name": "Passenger ships, Hazardous category D",
+			"desc": "AIS ShipTypes",
+			"isHidden": 0
+		},
+		{
+			"classId": 369,
+			"name": "Passenger ships, no additional information",
+			"desc": "AIS ShipTypes",
+			"isHidden": 0
+		},
+		{
+			"classId": 370,
+			"name": "Cargo ships, all",
+			"desc": "AIS ShipTypes",
+			"isHidden": 0
+		},
+		{
+			"classId": 371,
+			"name": "Cargo ships, Hazardous category A",
+			"desc": "AIS ShipTypes",
+			"isHidden": 0
+		},
+		{
+			"classId": 372,
+			"name": "Cargo ships, Hazardous category B",
+			"desc": "AIS ShipTypes",
+			"isHidden": 0
+		},
+		{
+			"classId": 373,
+			"name": "Cargo ships, Hazardous category C",
+			"desc": "AIS ShipTypes",
+			"isHidden": 0
+		},
+		{
+			"classId": 374,
+			"name": "Cargo ships, Hazardous category D",
+			"desc": "AIS ShipTypes",
+			"isHidden": 0
+		},
+		{
+			"classId": 379,
+			"name": "Cargo ships, no aditional information",
+			"desc": "AIS ShipTypes",
+			"isHidden": 0
+		},
+		{
+			"classId": 380,
+			"name": "Tanker, all",
+			"desc": "AIS ShipTypes",
+			"isHidden": 0
+		},
+		{
+			"classId": 381,
+			"name": "Tanker, Hazardous category A",
+			"desc": "AIS ShipTypes",
+			"isHidden": 0
+		},
+		{
+			"classId": 382,
+			"name": "Tanker, Hazardous category B",
+			"desc": "AIS ShipTypes",
+			"isHidden": 0
+		},
+		{
+			"classId": 383,
+			"name": "Tanker, Hazardous category C",
+			"desc": "AIS ShipTypes",
+			"isHidden": 0
+		},
+		{
+			"classId": 384,
+			"name": "Tanker, Hazardous category D",
+			"desc": "AIS ShipTypes",
+			"isHidden": 0
+		},
+		{
+			"classId": 389,
+			"name": "Tanker, no additional information",
+			"desc": "AIS ShipTypes",
+			"isHidden": 0
+		},
+		{
+			"classId": 390,
+			"name": "Other ships, all",
+			"desc": "AIS ShipTypes",
+			"isHidden": 0
+		},
+		{
+			"classId": 391,
+			"name": "Other ships, Hazardous category A",
+			"desc": "AIS ShipTypes",
+			"isHidden": 0
+		},
+		{
+			"classId": 392,
+			"name": "Other ships, Hazardous category B",
+			"desc": "AIS ShipTypes",
+			"isHidden": 0
+		},
+		{
+			"classId": 393,
+			"name": "Other ships, Hazardous category C",
+			"desc": "AIS ShipTypes",
+			"isHidden": 0
+		},
+		{
+			"classId": 394,
+			"name": "Other ships, Hazardous category D",
+			"desc": "AIS ShipTypes",
+			"isHidden": 0
+		},
+		{
+			"classId": 399,
+			"name": "Other ships, no additional information",
+			"desc": "AIS ShipTypes",
+			"isHidden": 0
+		},
+		{
+			"classId": 400,
+			"name": "Ship",
+			"desc": "HRSC2016",
+			"isHidden": 0
+		},
+		{
+			"classId": 401,
+			"name": "Aircraft carrier",
+			"desc": "HRSC2016",
+			"isHidden": 0
+		},
+		{
+			"classId": 402,
+			"name": "Warcraft",
+			"desc": "HRSC2016",
+			"isHidden": 0
+		},
+		{
+			"classId": 403,
+			"name": "Merchant ship",
+			"desc": "HRSC2016",
+			"isHidden": 0
+		},
+		{
+			"classId": 404,
+			"name": "Container ship A",
+			"desc": "HRSC2016",
+			"isHidden": 0
+		},
+		{
+			"classId": 405,
+			"name": "Car carrier A",
+			"desc": "HRSC2016",
+			"isHidden": 0
+		},
+		{
+			"classId": 406,
+			"name": "Hovercraft",
+			"desc": "HRSC2016",
+			"isHidden": 0
+		},
+		{
+			"classId": 407,
+			"name": "Yacht",
+			"desc": "HRSC2016",
+			"isHidden": 0
+		},
+		{
+			"classId": 408,
+			"name": "Container ship B",
+			"desc": "HRSC2016",
+			"isHidden": 0
+		},
+		{
+			"classId": 409,
+			"name": "Cruise ship",
+			"desc": "HRSC2016",
+			"isHidden": 0
+		},
+		{
+			"classId": 410,
+			"name": "Car carrier B",
+			"desc": "HRSC2016",
+			"isHidden": 0
+		},
+		{
+			"classId": 411,
+			"name": "Small Civil Transport/Utility",
+			"desc": "RarePlanes",
+			"isHidden": 0
+		},
+		{
+			"classId": 412,
+			"name": "Medium Civil Transport/Utility",
+			"desc": "RarePlanes",
+			"isHidden": 0
+		},
+		{
+			"classId": 413,
+			"name": "Large Civil Transport/Utility",
+			"desc": "RarePlanes",
+			"isHidden": 0
+		},
+		{
+			"classId": 414,
+			"name": "Military Transport/Utility/AWAC",
+			"desc": "RarePlanes",
+			"isHidden": 0
+		},
+		{
+			"classId": 415,
+			"name": "Military Bomber",
+			"desc": "RarePlanes",
+			"isHidden": 0
+		},
+		{
+			"classId": 416,
+			"name": "Military Fighter/Interceptor/Attack",
+			"desc": "RarePlanes",
+			"isHidden": 0
+		},
+		{
+			"classId": 417,
+			"name": "Military Trainer",
+			"desc": "RarePlanes",
+			"isHidden": 0
+		},
+		{
+			"classId": 420,
+			"name": "none",
+			"desc": "SS03 dataset category",
+			"isHidden": 0
+		},
+		{
+			"classId": 421,
+			"name": "building",
+			"desc": "SS03 dataset category",
+			"isHidden": 0
+		},
+		{
+			"classId": 422,
+			"name": "woodland",
+			"desc": "SS03 dataset category",
+			"isHidden": 0
+		},
+		{
+			"classId": 423,
+			"name": "water",
+			"desc": "SS03 dataset category",
+			"isHidden": 0
+		},
+		{
+			"classId": 424,
+			"name": "road",
+			"desc": "SS03 dataset category",
+			"isHidden": 0
+		},
+		{
+			"classId": 425,
+			"name": "building",
+			"desc": "OD19 dataset category",
+			"isHidden": 0
+		},
+		{
+			"classId": 430,
+			"name": "IGNORE",
+			"desc": "SS06 dataset category",
+			"isHidden": 0
+		},
+		{
+			"classId": 431,
+			"name": "BUILDING",
+			"desc": "SS06 dataset category",
+			"isHidden": 0
+		},
+		{
+			"classId": 432,
+			"name": "CLUTTER",
+			"desc": "SS06 dataset category",
+			"isHidden": 0
+		},
+		{
+			"classId": 433,
+			"name": "VEGETATION",
+			"desc": "SS06 dataset category",
+			"isHidden": 0
+		},
+		{
+			"classId": 434,
+			"name": "WATER",
+			"desc": "SS06 dataset category",
+			"isHidden": 0
+		},
+		{
+			"classId": 435,
+			"name": "GROUND",
+			"desc": "SS06 dataset category",
+			"isHidden": 0
+		},
+		{
+			"classId": 436,
+			"name": "CAR",
+			"desc": "SS06 dataset category",
+			"isHidden": 0
+		},
+		{
+			"classId": 441,
+			"name": "no-damage",
+			"desc": "OD12 dataset category",
+			"isHidden": 0
+		},
+		{
+			"classId": 442,
+			"name": "minor-damage",
+			"desc": "OD12 dataset category",
+			"isHidden": 0
+		},
+		{
+			"classId": 443,
+			"name": "major-damage",
+			"desc": "OD12 dataset category",
+			"isHidden": 0
+		},
+		{
+			"classId": 444,
+			"name": "destroyed",
+			"desc": "OD12 dataset category",
+			"isHidden": 0
+		},
+		{
+			"classId": 445,
+			"name": "un-classified",
+			"desc": "OD12 dataset category",
+			"isHidden": 0
+		},
+		{
+			"classId": 446,
+			"name": "none",
+			"desc": "SS14 dataset category",
+			"isHidden": 0
+		},
+		{
+			"classId": 447,
+			"name": "road",
+			"desc": "SS14 dataset category",
+			"isHidden": 0
+		},
+		{
+			"classId": 451,
+			"name": "Complete",
+			"desc": "Building type in OD16 dataset"
+		},
+		{
+			"classId": 452,
+			"name": "Incomplete",
+			"desc": "Building type in OD16 dataset"
+		},
+		{
+			"classId": 453,
+			"name": "Foundation",
+			"desc": "Building type in OD16 dataset"
+		},
+		{
+			"classId": 455,
+			"name": "Background",
+			"desc": "SS21 dataset classes"
+		},
+		{
+			"classId": 456,
+			"name": "Roads",
+			"desc": "SS21 dataset classes"
+		},
+		{
+			"classId": 457,
+			"name": "Buildings",
+			"desc": "SS21 dataset classes"
+		},
+		{
+			"classId": 458,
+			"name": "Trees",
+			"desc": "SS21 dataset classes"
+		},
+		{
+			"classId": 459,
+			"name": "Grass",
+			"desc": "SS21 dataset classes"
+		},
+		{
+			"classId": 460,
+			"name": "Bare Soil",
+			"desc": "SS21 dataset classes"
+		},
+		{
+			"classId": 461,
+			"name": "Water",
+			"desc": "SS21 dataset classes"
+		},
+		{
+			"classId": 462,
+			"name": "Railways",
+			"desc": "SS21 dataset classes"
+		},
+		{
+			"classId": 463,
+			"name": "Swimming Pools",
+			"desc": "SS21 dataset classes"
+		},
+		{
+			"classId": 464,
+			"name": "building",
+			"desc": "OD09 dataset class"
+		},
+		{
+			"classId": 465,
+			"name": "building",
+			"desc": "OD20 dataset class"
+		},
+		{
+			"classId": 470,
+			"name": "none",
+			"desc": "SS19 dataset class"
+		},
+		{
+			"classId": 471,
+			"name": "building",
+			"desc": "SS19 dataset class"
+		},
+		{
+			"classId": 472,
+			"name": "building",
+			"desc": "OD14 dataset class"
+		},
+		{
+			"classId": 473,
+			"name": "building",
+			"desc": "SS22 dataset class"
+		},
+		{
+			"classId": 474,
+			"name": "road",
+			"desc": "SS22 dataset class"
+		},
+		{
+			"classId": 475,
+			"name": "background",
+			"desc": "SS22 dataset class"
+		},
+		{
+			"classId": 476,
+			"name": "building",
+			"desc": "SS20 dataset class"
+		},
+		{
+			"classId": 477,
+			"name": "surface",
+			"desc": "SS20 dataset class"
+		},
+		{
+			"classId": 478,
+			"name": "car",
+			"desc": "SS20 dataset class"
+		},
+		{
+			"classId": 479,
+			"name": "low vegetation",
+			"desc": "SS20 dataset class"
+		},
+		{
+			"classId": 480,
+			"name": "tree",
+			"desc": "SS20 dataset class"
+		},
+		{
+			"classId": 481,
+			"name": "background",
+			"desc": "SS20 dataset class"
+		},
+		{
+			"classId": 482,
+			"name": "background",
+			"desc": "SS05 dataset class"
+		},
+		{
+			"classId": 483,
+			"name": "building",
+			"desc": "SS05 dataset class"
+		},
+		{
+			"classId": 484,
+			"name": "car",
+			"desc": "OD25 dataset class"
+		},
+		{
+			"classId": 485,
+			"name": "Urban",
+			"desc": "SS24 dataset class"
+		},
+		{
+			"classId": 486,
+			"name": "Agriculture",
+			"desc": "SS24 dataset class"
+		},
+		{
+			"classId": 487,
+			"name": "Rangeland",
+			"desc": "SS24 dataset class"
+		},
+		{
+			"classId": 488,
+			"name": "Forest",
+			"desc": "SS24 dataset class"
+		},
+		{
+			"classId": 489,
+			"name": "Water",
+			"desc": "SS24 dataset class"
+		},
+		{
+			"classId": 490,
+			"name": "Barren",
+			"desc": "SS24 dataset class"
+		},
+		{
+			"classId": 491,
+			"name": "Unknown",
+			"desc": "SS24 dataset class"
+		},
+		{
+			"classId": 492,
+			"name": "background",
+			"desc": "SS25 dataset class"
+		},
+		{
+			"classId": 493,
+			"name": "road",
+			"desc": "SS25 dataset class"
+		},
+		{
+			"classId": 494,
+			"name": "car",
+			"desc": "OD06 dataset class"
+		},
+		{
+			"classId": 495,
+			"name": "vehicle",
+			"desc": "OD24 dataset class"
+		},
+		{
+			"classId": 504,
+			"name": "MAN-MADE VERTICAL OBSTRUCTIONS",
+			"desc": "SS16 dataset class"
+		},
+		{
+			"classId": 505,
+			"name": "tree",
+			"desc": "OD02 dataset class"
+		},
+		{
+			"classId": 511,
+			"name": "GROUP_TREES",
+			"desc": "SS16 dataset class"
+		},
+		{
+			"classId": 512,
+			"name": "POOR_DIRT_CART_TRACK",
+			"desc": "SS16 dataset class"
+		},
+		{
+			"classId": 513,
+			"name": "STANDALONE_TREES",
+			"desc": "SS16 dataset class"
+		},
+		{
+			"classId": 514,
+			"name": "FOOTPATH_TRAIL",
+			"desc": "SS16 dataset class"
+		},
+		{
+			"classId": 515,
+			"name": "GOOD_ROADS",
+			"desc": "SS16 dataset class"
+		},
+		{
+			"classId": 516,
+			"name": "ORCHARD",
+			"desc": "SS16 dataset class"
+		},
+		{
+			"classId": 517,
+			"name": "RESIDENTIAL_BUILDING",
+			"desc": "SS16 dataset class"
+		},
+		{
+			"classId": 518,
+			"name": "MISC_SMALL_MANMADE_STRUCTURE",
+			"desc": "SS16 dataset class"
+		},
+		{
+			"classId": 519,
+			"name": "SMALL_VEHICLE",
+			"desc": "SS16 dataset class"
+		},
+		{
+			"classId": 520,
+			"name": "ROW_CROP",
+			"desc": "SS16 dataset class"
+		},
+		{
+			"classId": 521,
+			"name": "PYLONS",
+			"desc": "SS16 dataset class"
+		},
+		{
+			"classId": 522,
+			"name": "DRY_RIVERBED",
+			"desc": "SS16 dataset class"
+		},
+		{
+			"classId": 523,
+			"name": "EXTRACTION_MINE",
+			"desc": "SS16 dataset class"
+		},
+		{
+			"classId": 524,
+			"name": "MOTORBIKE",
+			"desc": "SS16 dataset class"
+		},
+		{
+			"classId": 525,
+			"name": "HEDGEROWS",
+			"desc": "SS16 dataset class"
+		},
+		{
+			"classId": 526,
+			"name": "STANDING_WATER",
+			"desc": "SS16 dataset class"
+		},
+		{
+			"classId": 527,
+			"name": "SATELLITE_DISHES_DISH_AERIAL",
+			"desc": "SS16 dataset class"
+		},
+		{
+			"classId": 528,
+			"name": "NON_RESIDENTIAL_BUILDING",
+			"desc": "SS16 dataset class"
+		},
+		{
+			"classId": 529,
+			"name": "MASTS_RADIO_TOWER",
+			"desc": "SS16 dataset class"
+		},
+		{
+			"classId": 530,
+			"name": "LARGE_VEHICLE",
+			"desc": "SS16 dataset class"
+		},
+		{
+			"classId": 531,
+			"name": "FARM_ANIMALS_IN_FIELD",
+			"desc": "SS16 dataset class"
+		},
+		{
+			"classId": 532,
+			"name": "SCRUBLAND",
+			"desc": "SS16 dataset class"
+		},
+		{
+			"classId": 533,
+			"name": "WATERWAY",
+			"desc": "SS16 dataset class"
+		},
+		{
+			"classId": 534,
+			"name": "BRIDGE",
+			"desc": "SS16 dataset class"
+		},
+		{
+			"classId": 535,
+			"name": "CONTOUR_PLOUGHING_CROPLAND",
+			"desc": "SS16 dataset class"
+		},
+		{
+			"classId": 536,
+			"name": "DEMARCATED_NON_CROP_FIELD",
+			"desc": "SS16 dataset class"
+		},
+		{
+			"classId": 537,
+			"name": "FLAGPOLE",
+			"desc": "SS16 dataset class"
+		},
+		{
+			"classId": 538,
+			"name": "LARGE_BUILDING",
+			"desc": "SS16 dataset class"
+		},
+		{
+			"classId": 539,
+			"name": "WOODLAND",
+			"desc": "SS16 dataset class"
+		},
+		{
+			"classId": 540,
+			"name": "AQUATIC_SMALL",
+			"desc": "SS16 dataset class"
+		}
+	]
+}
